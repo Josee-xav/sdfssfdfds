@@ -4,6 +4,8 @@ set disable-completion on
 bind '"\e[A": history-search-backward'
 bind '"\e[B": history-search-forward'
 
+alias sudo='sudo '
+
 alias record="bash /home/cloud/Documents/recordscreen.sh"
 alias cd.="cd ../"h
 alias rmtrash="trash-put "
